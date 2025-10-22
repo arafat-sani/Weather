@@ -10,6 +10,10 @@ function App() {
     <>
     
       
+     
+
+    <h1>Sani</h1>
+
 
       <div className="navbar bg-base-100 shadow-sm">
   <div className="navbar-start">

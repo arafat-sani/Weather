@@ -3,7 +3,7 @@ import { Layout } from "../layout/Layout";
 
 const router = createBrowserRouter([
   { path: "/",
-     Component: Layout 
+     Component:Layout 
     },
      
 ]);
